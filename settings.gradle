@@ -1,0 +1,2 @@
+rootProject.name = "Calculate bank interest"
+include ':app'
